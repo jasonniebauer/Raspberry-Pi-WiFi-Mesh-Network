@@ -6,3 +6,5 @@ Resources
 - [Information on choosing a WiFi channel](https://www.electronics-notes.com/articles/connectivity/wifi-ieee-802-11/channels-frequencies-bands-bandwidth.php)
 - [Setting up an Ad-Hoc Mesh Network with Raspberry Pi 3B+ using BATMAN-Adv](https://medium.com/swlh/setting-up-an-ad-hoc-mesh-network-with-raspberry-pi-3b-using-batman-adv-1c08ee565165)
 -[How to start a community network ](https://www.nycmesh.net/blog/how/)
+- [Peer-to-Peer Internet Workshop](https://github.com/tomeshnet/p2p-internet-workshop)
+- [Mesh Workshop](https://github.com/benhylau/mesh-workshop)
